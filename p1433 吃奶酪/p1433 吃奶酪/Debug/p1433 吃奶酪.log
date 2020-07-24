@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\joyj\source\repos\p1433 吃奶酪\p1433 吃奶酪\源.cpp(18): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+c:\users\joyj\source\repos\p1433 吃奶酪\p1433 吃奶酪\源.cpp(18): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\joyj\source\repos\p1433 吃奶酪\p1433 吃奶酪\源.cpp(22): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\joyj\source\repos\p1433 吃奶酪\p1433 吃奶酪\源.cpp(23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  p1433 吃奶酪.vcxproj -> C:\Users\JoyJ\source\repos\p1433 吃奶酪\Debug\p1433 吃奶酪.exe

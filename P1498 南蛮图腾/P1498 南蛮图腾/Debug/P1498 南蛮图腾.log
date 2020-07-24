@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c & windows 程序\p1498 南蛮图腾\p1498 南蛮图腾\源.cpp(45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\c & windows 程序\p1498 南蛮图腾\p1498 南蛮图腾\源.cpp(46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  P1498 南蛮图腾.vcxproj -> D:\C & Windows 程序\P1498 南蛮图腾\Debug\P1498 南蛮图腾.exe

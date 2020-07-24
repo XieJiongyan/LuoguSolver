@@ -1,0 +1,19 @@
+﻿  源.cpp
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(17): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,400020>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(19): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,400020>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(19): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,100005>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(22): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(24): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,400020>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(27): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(28): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,400020>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(29): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,400020>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(30): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,400020>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(31): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,400020>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(35): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,400020>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(36): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,400020>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(37): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,400020>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(41): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(44): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,400020>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(47): warning C4244: “参数”: 从“__int64”转换到“std::array<__int64,400020>::size_type”，可能丢失数据
+d:\c & windows 程序\p2023 [ahoi2009]维护序列\p2023 [ahoi2009]维护序列\源.cpp(50): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  P2023 [AHOI2009]维护序列.vcxproj -> D:\C & Windows 程序\P2023 [AHOI2009]维护序列\Debug\P2023 [AHOI2009]维护序列.exe

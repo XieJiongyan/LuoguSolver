@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1288 取数游戏II", "P1288 取数游戏II\P1288 取数游戏II.vcxproj", "{67632E1B-B077-4BF0-A2EB-0D5C185066BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67632E1B-B077-4BF0-A2EB-0D5C185066BD}.Debug|x64.ActiveCfg = Debug|x64
+		{67632E1B-B077-4BF0-A2EB-0D5C185066BD}.Debug|x64.Build.0 = Debug|x64
+		{67632E1B-B077-4BF0-A2EB-0D5C185066BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{67632E1B-B077-4BF0-A2EB-0D5C185066BD}.Debug|x86.Build.0 = Debug|Win32
+		{67632E1B-B077-4BF0-A2EB-0D5C185066BD}.Release|x64.ActiveCfg = Release|x64
+		{67632E1B-B077-4BF0-A2EB-0D5C185066BD}.Release|x64.Build.0 = Release|x64
+		{67632E1B-B077-4BF0-A2EB-0D5C185066BD}.Release|x86.ActiveCfg = Release|Win32
+		{67632E1B-B077-4BF0-A2EB-0D5C185066BD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7812C133-6B42-4098-8072-1B0EDEF65628}
+	EndGlobalSection
+EndGlobal

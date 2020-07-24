@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1087 FBI树", "P1087 FBI树\P1087 FBI树.vcxproj", "{20C51D0D-D293-42C0-8EF4-3BE040B2258A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C51D0D-D293-42C0-8EF4-3BE040B2258A}.Debug|x64.ActiveCfg = Debug|x64
+		{20C51D0D-D293-42C0-8EF4-3BE040B2258A}.Debug|x64.Build.0 = Debug|x64
+		{20C51D0D-D293-42C0-8EF4-3BE040B2258A}.Debug|x86.ActiveCfg = Debug|Win32
+		{20C51D0D-D293-42C0-8EF4-3BE040B2258A}.Debug|x86.Build.0 = Debug|Win32
+		{20C51D0D-D293-42C0-8EF4-3BE040B2258A}.Release|x64.ActiveCfg = Release|x64
+		{20C51D0D-D293-42C0-8EF4-3BE040B2258A}.Release|x64.Build.0 = Release|x64
+		{20C51D0D-D293-42C0-8EF4-3BE040B2258A}.Release|x86.ActiveCfg = Release|Win32
+		{20C51D0D-D293-42C0-8EF4-3BE040B2258A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE3EEF9D-1335-40FB-96D5-5C4C9BCCD978}
+	EndGlobalSection
+EndGlobal

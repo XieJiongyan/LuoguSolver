@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\c & windows 程序\p2142 高精度减法\p2142 高精度减法\源.cpp(80): warning C4018: “<”: 有符号/无符号不匹配
+d:\c & windows 程序\p2142 高精度减法\p2142 高精度减法\源.cpp(83): warning C4018: “>=”: 有符号/无符号不匹配
+d:\c & windows 程序\p2142 高精度减法\p2142 高精度减法\源.cpp(85): warning C4018: “>=”: 有符号/无符号不匹配
+d:\c & windows 程序\p2142 高精度减法\p2142 高精度减法\源.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
+  P2142 高精度减法.vcxproj -> D:\C & Windows 程序\P2142 高精度减法\Debug\P2142 高精度减法.exe

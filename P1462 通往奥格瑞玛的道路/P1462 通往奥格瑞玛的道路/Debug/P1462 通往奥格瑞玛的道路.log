@@ -1,0 +1,14 @@
+﻿  源.cpp
+d:\c & windows 程序\p1462 通往奥格瑞玛的道路\p1462 通往奥格瑞玛的道路\源.cpp(20): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+d:\c & windows 程序\p1462 通往奥格瑞玛的道路\p1462 通往奥格瑞玛的道路\源.cpp(21): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+d:\c & windows 程序\p1462 通往奥格瑞玛的道路\p1462 通往奥格瑞玛的道路\源.cpp(29): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+d:\c & windows 程序\p1462 通往奥格瑞玛的道路\p1462 通往奥格瑞玛的道路\源.cpp(38): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+d:\c & windows 程序\p1462 通往奥格瑞玛的道路\p1462 通往奥格瑞玛的道路\源.cpp(45): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+d:\c & windows 程序\p1462 通往奥格瑞玛的道路\p1462 通往奥格瑞玛的道路\源.cpp(59): warning C4244: “参数”: 从“const __int64”转换到“const unsigned int”，可能丢失数据
+d:\c & windows 程序\p1462 通往奥格瑞玛的道路\p1462 通往奥格瑞玛的道路\源.cpp(62): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+d:\c & windows 程序\p1462 通往奥格瑞玛的道路\p1462 通往奥格瑞玛的道路\源.cpp(63): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+d:\c & windows 程序\p1462 通往奥格瑞玛的道路\p1462 通往奥格瑞玛的道路\源.cpp(64): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+d:\c & windows 程序\p1462 通往奥格瑞玛的道路\p1462 通往奥格瑞玛的道路\源.cpp(65): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+d:\c & windows 程序\p1462 通往奥格瑞玛的道路\p1462 通往奥格瑞玛的道路\源.cpp(66): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+d:\c & windows 程序\p1462 通往奥格瑞玛的道路\p1462 通往奥格瑞玛的道路\源.cpp(70): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+  P1462 通往奥格瑞玛的道路.vcxproj -> D:\C & Windows 程序\P1462 通往奥格瑞玛的道路\Debug\P1462 通往奥格瑞玛的道路.exe

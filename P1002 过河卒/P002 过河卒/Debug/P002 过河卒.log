@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c & windows 程序\p002 过河卒\p002 过河卒\源.cpp(48): warning C4244: “=”: 从“__int64”转换到“long”，可能丢失数据
+d:\c & windows 程序\p002 过河卒\p002 过河卒\源.cpp(52): warning C4244: “=”: 从“__int64”转换到“long”，可能丢失数据
+  P002 过河卒.vcxproj -> D:\C & Windows 程序\P002 过河卒\Debug\P002 过河卒.exe

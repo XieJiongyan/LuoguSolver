@@ -1,0 +1,6 @@
+﻿  Verylongint.cpp
+d:\c & windows 程序\p1303 a_b problem\p1303 a_b problem\verylongint.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+d:\c & windows 程序\p1303 a_b problem\p1303 a_b problem\verylongint.cpp(49): warning C4018: “>=”: 有符号/无符号不匹配
+d:\c & windows 程序\p1303 a_b problem\p1303 a_b problem\verylongint.cpp(51): warning C4018: “>=”: 有符号/无符号不匹配
+d:\c & windows 程序\p1303 a_b problem\p1303 a_b problem\verylongint.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+  P1303 A_B Problem.vcxproj -> D:\C & Windows 程序\P1303 A_B Problem\Debug\P1303 A_B Problem.exe

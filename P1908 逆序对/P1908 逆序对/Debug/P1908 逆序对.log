@@ -1,0 +1,3 @@
+﻿  源.cpp
+d:\c & windows 程序\p1908 逆序对\p1908 逆序对\源.cpp(56): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+  P1908 逆序对.vcxproj -> D:\C & Windows 程序\P1908 逆序对\Debug\P1908 逆序对.exe

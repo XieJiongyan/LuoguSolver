@@ -1,0 +1,7 @@
+﻿  源.cpp
+c:\users\joyj\source\repos\p1108 低价购买\p1108 低价购买\源.cpp(50): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+  P1108 低价购买.vcxproj -> C:\Users\JoyJ\source\repos\P1108 低价购买\Debug\P1108 低价购买.exe

@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c & windows 程序\p1338 末日的传说\p1338 末日的传说\源.cpp(10): warning C4244: “参数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+d:\c & windows 程序\p1338 末日的传说\p1338 末日的传说\源.cpp(20): warning C4244: “参数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+  P1338 末日的传说.vcxproj -> D:\C & Windows 程序\P1338 末日的传说\Debug\P1338 末日的传说.exe

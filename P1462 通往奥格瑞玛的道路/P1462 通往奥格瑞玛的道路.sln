@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1462 通往奥格瑞玛的道路", "P1462 通往奥格瑞玛的道路\P1462 通往奥格瑞玛的道路.vcxproj", "{EB8C789D-BE61-44FC-8559-D11B04ADB0E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8C789D-BE61-44FC-8559-D11B04ADB0E6}.Debug|x64.ActiveCfg = Debug|x64
+		{EB8C789D-BE61-44FC-8559-D11B04ADB0E6}.Debug|x64.Build.0 = Debug|x64
+		{EB8C789D-BE61-44FC-8559-D11B04ADB0E6}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB8C789D-BE61-44FC-8559-D11B04ADB0E6}.Debug|x86.Build.0 = Debug|Win32
+		{EB8C789D-BE61-44FC-8559-D11B04ADB0E6}.Release|x64.ActiveCfg = Release|x64
+		{EB8C789D-BE61-44FC-8559-D11B04ADB0E6}.Release|x64.Build.0 = Release|x64
+		{EB8C789D-BE61-44FC-8559-D11B04ADB0E6}.Release|x86.ActiveCfg = Release|Win32
+		{EB8C789D-BE61-44FC-8559-D11B04ADB0E6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DB93799-BE87-45FA-BC2F-A1EF81CAD768}
+	EndGlobalSection
+EndGlobal

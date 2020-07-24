@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P2330 [SCOI2005]繁忙的都市", "P2330 [SCOI2005]繁忙的都市\P2330 [SCOI2005]繁忙的都市.vcxproj", "{C2B27523-CDB8-4606-8839-8B015284977A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2B27523-CDB8-4606-8839-8B015284977A}.Debug|x64.ActiveCfg = Debug|x64
+		{C2B27523-CDB8-4606-8839-8B015284977A}.Debug|x64.Build.0 = Debug|x64
+		{C2B27523-CDB8-4606-8839-8B015284977A}.Debug|x86.ActiveCfg = Debug|Win32
+		{C2B27523-CDB8-4606-8839-8B015284977A}.Debug|x86.Build.0 = Debug|Win32
+		{C2B27523-CDB8-4606-8839-8B015284977A}.Release|x64.ActiveCfg = Release|x64
+		{C2B27523-CDB8-4606-8839-8B015284977A}.Release|x64.Build.0 = Release|x64
+		{C2B27523-CDB8-4606-8839-8B015284977A}.Release|x86.ActiveCfg = Release|Win32
+		{C2B27523-CDB8-4606-8839-8B015284977A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4D8EE5B-D38E-47FC-911D-DF204A7831EC}
+	EndGlobalSection
+EndGlobal

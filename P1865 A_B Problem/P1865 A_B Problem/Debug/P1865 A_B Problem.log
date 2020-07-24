@@ -1,0 +1,3 @@
+﻿  源.cpp
+d:\c & windows 程序\p1865 a_b problem\p1865 a_b problem\源.cpp(36): warning C4244: “参数”: 从“__int64”转换到“long”，可能丢失数据
+  P1865 A_B Problem.vcxproj -> D:\C & Windows 程序\P1865 A_B Problem\Debug\P1865 A_B Problem.exe

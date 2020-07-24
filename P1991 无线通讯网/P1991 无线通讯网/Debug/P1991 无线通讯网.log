@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\c & windows 程序\p1991 无线通讯网\p1991 无线通讯网\源.cpp(42): warning C4101: “in1”: 未引用的局部变量
+d:\c & windows 程序\p1991 无线通讯网\p1991 无线通讯网\源.cpp(42): warning C4101: “in2”: 未引用的局部变量
+d:\c & windows 程序\p1991 无线通讯网\p1991 无线通讯网\源.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+  P1991 无线通讯网.vcxproj -> D:\C & Windows 程序\P1991 无线通讯网\Debug\P1991 无线通讯网.exe

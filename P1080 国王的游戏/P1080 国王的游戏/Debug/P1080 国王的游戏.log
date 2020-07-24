@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c & windows 程序\p1080 国王的游戏\p1080 国王的游戏\源.cpp(36): warning C4244: “=”: 从“long”转换到“short”，可能丢失数据
+d:\c & windows 程序\p1080 国王的游戏\p1080 国王的游戏\源.cpp(50): warning C4244: “=”: 从“long”转换到“short”，可能丢失数据
+  P1080 国王的游戏.vcxproj -> D:\C & Windows 程序\P1080 国王的游戏\Debug\P1080 国王的游戏.exe

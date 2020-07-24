@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\c & windows 程序\p1378 油滴扩展\p1378 油滴扩展\源.cpp(32): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+d:\c & windows 程序\p1378 油滴扩展\p1378 油滴扩展\源.cpp(37): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+d:\c & windows 程序\p1378 油滴扩展\p1378 油滴扩展\源.cpp(49): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\c & windows 程序\p1378 油滴扩展\p1378 油滴扩展\源.cpp(55): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  P1378 油滴扩展.vcxproj -> D:\C & Windows 程序\P1378 油滴扩展\Debug\P1378 油滴扩展.exe

@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c & windows 程序\p1010 幂次方\p1010 幂次方\源.cpp(30): warning C4244: “参数”: 从“double”转换到“long”，可能丢失数据
+d:\c & windows 程序\p1010 幂次方\p1010 幂次方\源.cpp(32): warning C4244: “参数”: 从“double”转换到“long”，可能丢失数据
+  P1010 幂次方.vcxproj -> D:\C & Windows 程序\P1010 幂次方\Debug\P1010 幂次方.exe

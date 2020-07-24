@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\c & windows 程序\p1090 合并果子\p1090 合并果子\源.cpp(18): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+d:\c & windows 程序\p1090 合并果子\p1090 合并果子\源.cpp(19): warning C4244: “初始化”: 从“__int64”转换到“long”，可能丢失数据
+  P1090 合并果子.vcxproj -> D:\C & Windows 程序\P1090 合并果子\Debug\P1090 合并果子.exe

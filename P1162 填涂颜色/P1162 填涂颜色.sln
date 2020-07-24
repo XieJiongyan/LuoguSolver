@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1162 填涂颜色", "P1162 填涂颜色\P1162 填涂颜色.vcxproj", "{B58479A4-C4AA-4105-B45C-8AAC4CE4375D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B58479A4-C4AA-4105-B45C-8AAC4CE4375D}.Debug|x64.ActiveCfg = Debug|x64
+		{B58479A4-C4AA-4105-B45C-8AAC4CE4375D}.Debug|x64.Build.0 = Debug|x64
+		{B58479A4-C4AA-4105-B45C-8AAC4CE4375D}.Debug|x86.ActiveCfg = Debug|Win32
+		{B58479A4-C4AA-4105-B45C-8AAC4CE4375D}.Debug|x86.Build.0 = Debug|Win32
+		{B58479A4-C4AA-4105-B45C-8AAC4CE4375D}.Release|x64.ActiveCfg = Release|x64
+		{B58479A4-C4AA-4105-B45C-8AAC4CE4375D}.Release|x64.Build.0 = Release|x64
+		{B58479A4-C4AA-4105-B45C-8AAC4CE4375D}.Release|x86.ActiveCfg = Release|Win32
+		{B58479A4-C4AA-4105-B45C-8AAC4CE4375D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FC24D5E-25C7-4E45-810E-EC3938E3A027}
+	EndGlobalSection
+EndGlobal

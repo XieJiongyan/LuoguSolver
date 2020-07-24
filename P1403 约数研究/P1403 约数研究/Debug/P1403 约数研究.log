@@ -1,0 +1,2 @@
+﻿源.obj : error LNK2005: "class Primernum primernum" (?primernum@@3VPrimernum@@A) 已经在 Primernum.obj 中定义
+C:\Users\JoyJ\source\repos\P1403 约数研究\Debug\P1403 约数研究.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

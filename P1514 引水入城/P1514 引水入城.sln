@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1514 引水入城", "P1514 引水入城\P1514 引水入城.vcxproj", "{73EC21EE-82D5-404F-94F5-E7908DA4EDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73EC21EE-82D5-404F-94F5-E7908DA4EDED}.Debug|x64.ActiveCfg = Debug|x64
+		{73EC21EE-82D5-404F-94F5-E7908DA4EDED}.Debug|x64.Build.0 = Debug|x64
+		{73EC21EE-82D5-404F-94F5-E7908DA4EDED}.Debug|x86.ActiveCfg = Debug|Win32
+		{73EC21EE-82D5-404F-94F5-E7908DA4EDED}.Debug|x86.Build.0 = Debug|Win32
+		{73EC21EE-82D5-404F-94F5-E7908DA4EDED}.Release|x64.ActiveCfg = Release|x64
+		{73EC21EE-82D5-404F-94F5-E7908DA4EDED}.Release|x64.Build.0 = Release|x64
+		{73EC21EE-82D5-404F-94F5-E7908DA4EDED}.Release|x86.ActiveCfg = Release|Win32
+		{73EC21EE-82D5-404F-94F5-E7908DA4EDED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B9D7BE2-16D8-4F47-8E00-6AFFD6E66A39}
+	EndGlobalSection
+EndGlobal

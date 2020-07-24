@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1273 有线电视网", "P1273 有线电视网\P1273 有线电视网.vcxproj", "{17B4EB79-42D8-48AA-B53C-DC1CF697485E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B4EB79-42D8-48AA-B53C-DC1CF697485E}.Debug|x64.ActiveCfg = Debug|x64
+		{17B4EB79-42D8-48AA-B53C-DC1CF697485E}.Debug|x64.Build.0 = Debug|x64
+		{17B4EB79-42D8-48AA-B53C-DC1CF697485E}.Debug|x86.ActiveCfg = Debug|Win32
+		{17B4EB79-42D8-48AA-B53C-DC1CF697485E}.Debug|x86.Build.0 = Debug|Win32
+		{17B4EB79-42D8-48AA-B53C-DC1CF697485E}.Release|x64.ActiveCfg = Release|x64
+		{17B4EB79-42D8-48AA-B53C-DC1CF697485E}.Release|x64.Build.0 = Release|x64
+		{17B4EB79-42D8-48AA-B53C-DC1CF697485E}.Release|x86.ActiveCfg = Release|Win32
+		{17B4EB79-42D8-48AA-B53C-DC1CF697485E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79F50E6A-4B8A-46DB-A20C-4CFB9D5AEA81}
+	EndGlobalSection
+EndGlobal

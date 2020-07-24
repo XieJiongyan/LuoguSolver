@@ -1,0 +1,9 @@
+﻿  源.cpp
+d:\c & windows 程序\p1017 进制转换\p1017 进制转换\源.cpp(19): warning C4244: “+=”: 从“double”转换到“long”，可能丢失数据
+d:\c & windows 程序\p1017 进制转换\p1017 进制转换\源.cpp(22): warning C4244: “+=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=long
+          ]
+d:\c & windows 程序\p1017 进制转换\p1017 进制转换\源.cpp(33): warning C4244: “-=”: 从“double”转换到“long”，可能丢失数据
+  P1017 进制转换.vcxproj -> D:\C & Windows 程序\P1017 进制转换\Debug\P1017 进制转换.exe

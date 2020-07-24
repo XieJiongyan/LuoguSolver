@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1305 新二叉树", "P1305 新二叉树\P1305 新二叉树.vcxproj", "{F32BCB6E-44A2-4ECF-8BEB-8C3D01ACB037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32BCB6E-44A2-4ECF-8BEB-8C3D01ACB037}.Debug|x64.ActiveCfg = Debug|x64
+		{F32BCB6E-44A2-4ECF-8BEB-8C3D01ACB037}.Debug|x64.Build.0 = Debug|x64
+		{F32BCB6E-44A2-4ECF-8BEB-8C3D01ACB037}.Debug|x86.ActiveCfg = Debug|Win32
+		{F32BCB6E-44A2-4ECF-8BEB-8C3D01ACB037}.Debug|x86.Build.0 = Debug|Win32
+		{F32BCB6E-44A2-4ECF-8BEB-8C3D01ACB037}.Release|x64.ActiveCfg = Release|x64
+		{F32BCB6E-44A2-4ECF-8BEB-8C3D01ACB037}.Release|x64.Build.0 = Release|x64
+		{F32BCB6E-44A2-4ECF-8BEB-8C3D01ACB037}.Release|x86.ActiveCfg = Release|Win32
+		{F32BCB6E-44A2-4ECF-8BEB-8C3D01ACB037}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {811D701C-DF1D-4224-A867-CA5055E5A80B}
+	EndGlobalSection
+EndGlobal
