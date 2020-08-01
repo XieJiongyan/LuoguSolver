@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1439 【模板】最长公共子序列", "P1439 【模板】最长公共子序列\P1439 【模板】最长公共子序列.vcxproj", "{705BA0F9-E218-4D60-B4BA-BB29D3E0D128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705BA0F9-E218-4D60-B4BA-BB29D3E0D128}.Debug|x64.ActiveCfg = Debug|x64
+		{705BA0F9-E218-4D60-B4BA-BB29D3E0D128}.Debug|x64.Build.0 = Debug|x64
+		{705BA0F9-E218-4D60-B4BA-BB29D3E0D128}.Debug|x86.ActiveCfg = Debug|Win32
+		{705BA0F9-E218-4D60-B4BA-BB29D3E0D128}.Debug|x86.Build.0 = Debug|Win32
+		{705BA0F9-E218-4D60-B4BA-BB29D3E0D128}.Release|x64.ActiveCfg = Release|x64
+		{705BA0F9-E218-4D60-B4BA-BB29D3E0D128}.Release|x64.Build.0 = Release|x64
+		{705BA0F9-E218-4D60-B4BA-BB29D3E0D128}.Release|x86.ActiveCfg = Release|Win32
+		{705BA0F9-E218-4D60-B4BA-BB29D3E0D128}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3683B732-7262-478B-B697-61F0525B8CA4}
+	EndGlobalSection
+EndGlobal
