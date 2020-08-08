@@ -1,0 +1,4 @@
+﻿  P4933 大师.cpp
+D:\Luogu\P4933 大师\P4933 大师\P4933 大师.cpp(34,25): warning C4244: “参数”: 从“__int64”转换到“std::array<bool,40008>::size_type”，可能丢失数据
+D:\Luogu\P4933 大师\P4933 大师\P4933 大师.cpp(35,22): warning C4244: “参数”: 从“__int64”转换到“std::array<bool,40008>::size_type”，可能丢失数据
+  P4933 大师.vcxproj -> D:\Luogu\P4933 大师\Debug\P4933 大师.exe

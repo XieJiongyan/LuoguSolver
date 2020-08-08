@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P5858 「SWTR-03」Golden Sword", "P5858 「SWTR-03」Golden Sword\P5858 「SWTR-03」Golden Sword.vcxproj", "{359B3670-48A3-45F8-BED4-F1D29F89A2BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359B3670-48A3-45F8-BED4-F1D29F89A2BA}.Debug|x64.ActiveCfg = Debug|x64
+		{359B3670-48A3-45F8-BED4-F1D29F89A2BA}.Debug|x64.Build.0 = Debug|x64
+		{359B3670-48A3-45F8-BED4-F1D29F89A2BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{359B3670-48A3-45F8-BED4-F1D29F89A2BA}.Debug|x86.Build.0 = Debug|Win32
+		{359B3670-48A3-45F8-BED4-F1D29F89A2BA}.Release|x64.ActiveCfg = Release|x64
+		{359B3670-48A3-45F8-BED4-F1D29F89A2BA}.Release|x64.Build.0 = Release|x64
+		{359B3670-48A3-45F8-BED4-F1D29F89A2BA}.Release|x86.ActiveCfg = Release|Win32
+		{359B3670-48A3-45F8-BED4-F1D29F89A2BA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C224065F-BC0F-4808-8204-E69E6CF6336F}
+	EndGlobalSection
+EndGlobal
